@@ -13,7 +13,7 @@
   Below is the simulation result in which op_1 { Multiplicand_M (11000 --> -8) )} and op_2 {(Mutiplier_Q (1011 ---> -5)} ,
      here 1011(Q_reg {aka: multiplier} is      appended with 0 on lsb side which would be used to compare the required operation
      {along with Q[1]  as Q[1]Q[0]} . The Required result is obtained after approximately 6 clock cycles which is (-8) * (-5) = 40   
-
-
+      This design works for all the other input test cases well when applied.
+         
 ![sim_booth](https://user-images.githubusercontent.com/98607828/183564666-dc7025d2-268d-422a-8719-df8545812862.jpg)
 
