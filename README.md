@@ -1,5 +1,5 @@
 # Algorithm Chart
- This Project is Implementation of Booth's algorithm for 4 bit signed multiplicantion at Register Tranfer Logic Level.
+ This Project is the Implementation of Booth's algorithm for 4 bit signed multiplicantion at Register Tranfer Logic Level.
 ![booths-algorithm](https://user-images.githubusercontent.com/98607828/183565360-f9a43600-16f3-4991-b5dc-6f00ab01c614.jpg)
 
 # RTL View
