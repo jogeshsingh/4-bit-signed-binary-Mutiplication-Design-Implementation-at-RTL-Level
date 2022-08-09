@@ -49,7 +49,7 @@ o_assert_done
      i_rst_n = 1'b0;
       start = 1'b0; 
       op_1 = 5'b11000; ///-8
-      op_2 = 4'b1011;   ///-7
+      op_2 = 4'b1011;   ///-5
     
         end
         
@@ -62,8 +62,6 @@ o_assert_done
             #3 i_rst_n = 1'b1;
             #2 start = 1'b1 ;
 
-           // #3 op_1 = 4'b0011;
-            //#2 op_2 = 4'b0111;
             #100 $stop ;
             end 
       integer i ;      
