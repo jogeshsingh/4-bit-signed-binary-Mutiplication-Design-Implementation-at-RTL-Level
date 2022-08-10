@@ -3,11 +3,13 @@
  This Project is the Implementation of Booth's algorithm for 4 bit signed multiplicantion at Register Tranfer Logic Level.
  
 ![booths-algorithm](https://user-images.githubusercontent.com/98607828/183565360-f9a43600-16f3-4991-b5dc-6f00ab01c614.jpg)
+![synthesized_design_booths](https://user-images.githubusercontent.com/98607828/183909351-90d0f227-7a15-4a46-95cf-e3f75a35f565.jpg)
 
 # RTL View
 
 ![RTL_booths2's](https://user-images.githubusercontent.com/98607828/183563213-75c4768c-66a3-4baf-a156-3e5d30952dd6.jpg)
 ![RTL_sch_BOOTHs](https://user-images.githubusercontent.com/98607828/183563328-5489396c-2bed-4986-8554-c8acce8ef1db.jpg)
+
 
 
  # Simulation
